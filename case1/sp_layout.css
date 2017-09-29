@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Case Problem 1
+
+   Layout styles for Slate and Pencil Tutoring
+   Author: Karen Cooke
+   Date:   2017-03-01
+
+   Filename: sp_layout.css
+
+*/
+
+/* Window and Body Styles */
+
+html {
+
+
+}
+body {
+
+}
+
+header, ul, nav, li, a {
+
+}
+
+
+/* Row Styles */
+
+.row::after {
+
+}
+
+
+
+/* Page Header Styles */
+
+body > header > img {
+
+}
+
+body > header > nav {
+
+}
+
+body > header > nav a {
+
+}
+
+
+/* Horizontal Navigation List Styles */
+
+nav.horizontal li {
+
+}
+
+
+/* Topics Styles */
+
+
+ul#topics li {
+
+}
+
+
+ul#topics li:first-of-type {
+
+}
+
+ul#topics li:last-of-type {
+
+}
+
+ul#topics li img {
+
+}
+
+
+/* HR Styles */
+
+hr {
+
+}
+
+
+/* Customer Comment Styles */
+
+ul#comments {
+
+}
+
+
+ul#comments li {
+
+}
+
+ul#comments li img {
+
+}
+
+ul#comments li p {
+
+}
+
+/* Footer Styles */
+
+footer {
+
+}
